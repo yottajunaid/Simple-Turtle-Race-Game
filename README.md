@@ -39,6 +39,8 @@ Welcome to the Simple Turtle Race Game! This Python project uses the Turtle grap
 
 - Feel free to explore and modify the code to enhance the game or add new features.
 
+- This Game can't be run on Termux. Only OS with GUI like Windows, linux, MacOS, etc
+
 ## Requirements
 
 - Python3
