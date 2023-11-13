@@ -19,7 +19,7 @@ Welcome to the Simple Turtle Race Game! This Python project uses the Turtle grap
      ```
    - Run the Python script:
      ```bash
-     python turtle_race.py
+     python main.py
      ```
    - Follow the on-screen instructions to place your bet and enjoy the race!
 
