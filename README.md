@@ -30,6 +30,8 @@ Welcome to the Simple Turtle Race Game! This Python project uses the Turtle grap
 4. **Game Outcome:**
    - If your bet matches the winning turtle's color, congratulations! Your bet is correct.
    - If not, better luck next time!
+     
+![turtle_race_game_screenshot](https://github.com/yottajunaid/Simple-Turtle-Race-Game/assets/114429773/40c955eb-9932-4523-a2f4-aad85ac0cc19)
 
 ## Additional Information
 
